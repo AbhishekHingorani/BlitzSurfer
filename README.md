@@ -6,8 +6,7 @@ Server, SQL Server, C#, HTML, CSS, Javascript, JQuery)
 
 # 1.0. Introduction
 
-1.
-  1. 1. ** PURPOSE**
+**1.1 PURPOSE**
 
 The main purpose of the project is to create an entertaining and a unique game, which runs on the android mobile platform. There are two games in the project and each one will be played with a different mechanism of the device such as virtual joystick or accelerometer. This document&#39;s audience is developers, testers, end users.
 
