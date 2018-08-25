@@ -1,31 +1,10 @@
 # BlitzSurfer
-#
 
-#
+Web application to simulate a beatpad and create music with beats. User can select diffrent instrument
+and record melodies and share them with friends. (Tools and Technologies used : Visual Studio 2012, IIS
+Server, SQL Server, C#, HTML, CSS, Javascript, JQuery)
 
-#
-
-# SYSTEM REQUIREMENT SPECIFICATION
-
-
-
-**Endless Runner and Multiplayer Game using Unity**
-
-
-
-Abhishek Hingorani - 18
-
-Abhishek Yadav - 1
-
-
-
-
-
-
-
-# 1.0.
-
-# Introduction
+# 1.0. Introduction
 
 1.
   1. 1. ** PURPOSE**
