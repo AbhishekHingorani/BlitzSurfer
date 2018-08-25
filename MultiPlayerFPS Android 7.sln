@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiPlayerFPS Android 7.Plugins", "MultiPlayerFPS Android 7.Plugins.csproj", "{3D03A128-6F9C-0BBF-98CE-9B2D0CB286DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiPlayerFPS Android 7", "MultiPlayerFPS Android 7.csproj", "{57CAC334-C5E6-AD01-CC85-B6C36F9259E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiPlayerFPS Android 7.Editor", "MultiPlayerFPS Android 7.Editor.csproj", "{A4283F27-95E0-857B-2D13-2A3A2558B784}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D03A128-6F9C-0BBF-98CE-9B2D0CB286DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D03A128-6F9C-0BBF-98CE-9B2D0CB286DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D03A128-6F9C-0BBF-98CE-9B2D0CB286DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D03A128-6F9C-0BBF-98CE-9B2D0CB286DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57CAC334-C5E6-AD01-CC85-B6C36F9259E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57CAC334-C5E6-AD01-CC85-B6C36F9259E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57CAC334-C5E6-AD01-CC85-B6C36F9259E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57CAC334-C5E6-AD01-CC85-B6C36F9259E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4283F27-95E0-857B-2D13-2A3A2558B784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4283F27-95E0-857B-2D13-2A3A2558B784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4283F27-95E0-857B-2D13-2A3A2558B784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4283F27-95E0-857B-2D13-2A3A2558B784}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
