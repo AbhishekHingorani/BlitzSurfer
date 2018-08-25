@@ -1,8 +1,7 @@
 # BlitzSurfer
 
-Web application to simulate a beatpad and create music with beats. User can select diffrent instrument
-and record melodies and share them with friends. (Tools and Technologies used : Visual Studio 2012, IIS
-Server, SQL Server, C#, HTML, CSS, Javascript, JQuery)
+3D Android action game with single player and multiplayer modules (Tools and Technologies used : Unity
+Game Engine, Visual Studio 2015, Blender, Adobe Photoshop, Audacity, C#)
 
 # 1.0. Introduction
 
