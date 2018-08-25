@@ -46,9 +46,9 @@ As mentioned before single player mode will be an infinite runner game similar t
 
 Multiplayer mode will let players play against each other in an arena by allowing user to join the game hosted by any one player. The game initially supports connection over local area network only.
 
-# 3.0.  REQUIREMENTS FOR DEVELOPING SYSTEM**
+# 3.0.  REQUIREMENTS FOR DEVELOPING SYSTEM
 
-**3.1.  Software**** Requirements**
+**3.1.  Software Requirements**
 
 User needs an Android device running android 4.4(KitKat) or higher.
 
